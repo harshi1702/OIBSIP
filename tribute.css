@@ -1,0 +1,42 @@
+body{
+    font-family:  arial,sans-serif;
+    background color: #f8f9fa;
+    color : #333;
+    margin:0;
+    padding:0;
+}
+header {
+ background-color:#fdd835;
+ color: #fff;
+ padding: 20px;
+ text-align: center;
+}
+main{
+    padding: 20px;
+    max-width:80px;
+    margin:auto;
+}
+.intro,.qualities,.conclusion
+{
+    margin-bottom: 20px;
+}
+h1,h2{
+    font-family: 'georgia ,sans-serif';
+    color: #2e8b57;
+}
+.profilepic,.inspiringpic{
+display:block;
+max-width: 100%;
+height: auto;
+margin: 0 auto;
+border-radius: 50%;
+}
+footer{
+    background-color: #4b0082;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom:0;
+    width:100%
+}
